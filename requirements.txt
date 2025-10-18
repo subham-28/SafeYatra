@@ -1,0 +1,13 @@
+numpy
+pandas
+osmnx
+networkx
+geopandas
+scipy
+scikit-learn 
+joblib 
+fastapi
+uvicorn[standard] 
+sodapy
+folium
+matplotlib
